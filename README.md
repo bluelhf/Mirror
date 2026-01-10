@@ -21,7 +21,7 @@ Version 5 of Mirror abandoned trying to shortcut the JDK's reflection API and in
 <dependency>
     <groupId>mx.kenzie</groupId>
     <artifactId>mirror</artifactId>
-    <version>5.0.3</version>
+    <version>5.0.5</version>
     <scope>compile</scope>
 </dependency>
 ```
